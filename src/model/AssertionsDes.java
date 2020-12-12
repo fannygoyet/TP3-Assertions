@@ -7,7 +7,6 @@ public class AssertionsDes {
         while(a >= b) {
             res ++;
             a -= b;
-            a = a;
         }
         return res;}
 }
